@@ -2,6 +2,6 @@
 
 ## Nombres:
 
-- Alejo
-- Yerson
+- Alejo Perez Ramirez
+- Yerson Arango Perez
 - Lede
