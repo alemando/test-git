@@ -1,6 +1,7 @@
 # Mi primer proyecto
 
-Nombres:
+## Nombres:
 
 - Alejo Perez Ramirez
 - Yerson Arango Perez
+- Lede
