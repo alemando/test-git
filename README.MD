@@ -2,5 +2,5 @@
 
 Nombres:
 
-- Alejo Perez
-- Yerson Arango
+- Alejo Perez Belen
+- Yerson Arango Perez
