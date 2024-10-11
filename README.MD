@@ -2,5 +2,5 @@
 
 Nombres:
 
-- Alejo
-- Yerson
+- Alejo Perez
+- Yerson Arango
