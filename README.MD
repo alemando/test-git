@@ -4,4 +4,4 @@
 
 - Alejo Perez Ramirez
 - Yerson Arango Perez
-- Lede
+- Lede Molina Zapata
